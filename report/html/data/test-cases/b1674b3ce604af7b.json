@@ -1,0 +1,105 @@
+{
+  "uid" : "b1674b3ce604af7b",
+  "name" : "test_audit_article_pass",
+  "fullName" : "case.mis.test_article_manage.TestArticleManage#test_audit_article_pass",
+  "historyId" : "14818a6bd98840f55da386bb739b3aaf",
+  "time" : {
+    "start" : 1598432004413,
+    "stop" : 1598432016861,
+    "duration" : 12448
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598432004410,
+      "stop" : 1598432004410,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "95ae199131965ed3",
+      "name" : "log",
+      "source" : "95ae199131965ed3.txt",
+      "type" : "text/plain",
+      "size" : 64
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598432016862,
+      "stop" : 1598432016862,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=103)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mis"
+  }, {
+    "name" : "suite",
+    "value" : "test_article_manage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestArticleManage"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-7JCHR6M"
+  }, {
+    "name" : "thread",
+    "value" : "17180-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mis.test_article_manage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=103)" ]
+  },
+  "source" : "b1674b3ce604af7b.json",
+  "parameterValues" : [ ]
+}

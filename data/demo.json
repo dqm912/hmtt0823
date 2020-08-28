@@ -1,0 +1,30 @@
+{
+  "NO.1": {
+    "username": "",
+    "password": "123456",
+    "verify": "8888",
+    "message": "用户名不能为空",
+    "is_suc": false
+  },
+  "NO.2": {
+    "username": "admin",
+    "password": "",
+    "verify": "8888",
+    "message": "密码不能为空",
+    "is_suc": false
+  },
+  "NO.3": {
+    "username": "admin",
+    "password": "123456",
+    "verify": "",
+    "message": "验证码不能为空",
+    "is_suc": false
+  },
+  "NO.4": {
+    "username": "admin",
+    "password": "123456",
+    "verify": "8888",
+    "message": "系统后台",
+    "is_suc": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "test_pub_ari_01": {
+    "title": "BJ200-23A{}",
+    "context": "A",
+    "channel": "软件测试",
+    "expect": "新增文章成功"
+  },
+  "test_pub_ari_02": {
+    "title": "BJ200-23B{}",
+    "context": "B",
+    "channel": "人工智能",
+    "expect": "新增文章成功"
+  }
+}

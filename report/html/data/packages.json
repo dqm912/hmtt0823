@@ -1,0 +1,166 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "case",
+    "children" : [ {
+      "name" : "mp",
+      "children" : [ {
+        "name" : "test_begin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "acf99af4709ac5ae",
+          "parentUid" : "483a23d8988956c5156815f02b8bb31d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598431958050,
+            "stop" : 1598431958050,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "483a23d8988956c5156815f02b8bb31d"
+      }, {
+        "name" : "test_mp_login",
+        "children" : [ {
+          "name" : "test_mp_login",
+          "uid" : "3d6f2f1ccd083fdb",
+          "parentUid" : "e5d8885fd53b21d70f3d09f41aa777fc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598431965878,
+            "stop" : 1598431966835,
+            "duration" : 957
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e5d8885fd53b21d70f3d09f41aa777fc"
+      }, {
+        "name" : "test_pub_article",
+        "children" : [ {
+          "name" : "test_pub_article[BJ200-23A{}-A-软件测试-新增文章成功]",
+          "uid" : "3dc865b4c1cd6857",
+          "parentUid" : "603b251a35baebd65e4091191b302d3a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598431966857,
+            "stop" : 1598431978751,
+            "duration" : 11894
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'软件测试'", "'A'", "'BJ200-23A{}'", "'新增文章成功'" ]
+        }, {
+          "name" : "test_pub_article[BJ200-23B{}-B-软件测试-新增文章成功]",
+          "uid" : "e157b4c5349b4c2e",
+          "parentUid" : "603b251a35baebd65e4091191b302d3a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598431978766,
+            "stop" : 1598431989727,
+            "duration" : 10961
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'软件测试'", "'B'", "'BJ200-23B{}'", "'新增文章成功'" ]
+        } ],
+        "uid" : "603b251a35baebd65e4091191b302d3a"
+      }, {
+        "name" : "test_end",
+        "children" : [ {
+          "name" : "test_end",
+          "uid" : "8fd5c4055a2c51c",
+          "parentUid" : "7a7eef47d6905cd43ddd52ef4057502b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598431989761,
+            "stop" : 1598431994216,
+            "duration" : 4455
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7a7eef47d6905cd43ddd52ef4057502b"
+      } ],
+      "uid" : "f729e3ae600bc8065b475ad9e41d1771"
+    }, {
+      "name" : "mis",
+      "children" : [ {
+        "name" : "test_begin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "4892eb423bd3633d",
+          "parentUid" : "07171998de8febc01b7526d5044e7c9d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598431994230,
+            "stop" : 1598431994230,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "07171998de8febc01b7526d5044e7c9d"
+      }, {
+        "name" : "test_mis_login",
+        "children" : [ {
+          "name" : "test_mis_login",
+          "uid" : "d35f50957b46e515",
+          "parentUid" : "eff03b0ca789d9f39f4ea0f6fe90f9f1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598432003620,
+            "stop" : 1598432004397,
+            "duration" : 777
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "eff03b0ca789d9f39f4ea0f6fe90f9f1"
+      }, {
+        "name" : "test_article_manage",
+        "children" : [ {
+          "name" : "test_audit_article_pass",
+          "uid" : "b1674b3ce604af7b",
+          "parentUid" : "e8b8d12c7aa31ff396266aab62d102ef",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598432004413,
+            "stop" : 1598432016861,
+            "duration" : 12448
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e8b8d12c7aa31ff396266aab62d102ef"
+      }, {
+        "name" : "test_end",
+        "children" : [ {
+          "name" : "test_end",
+          "uid" : "209b9b59217ec61",
+          "parentUid" : "6aae1f0f4ed2cfe911b2357246e73404",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598432016874,
+            "stop" : 1598432021401,
+            "duration" : 4527
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6aae1f0f4ed2cfe911b2357246e73404"
+      } ],
+      "uid" : "dce4d8f71ea6895c566b72c2a17cbd50"
+    } ],
+    "uid" : "3a5ff917f72cbd03b2a2ff2549394ef0"
+  } ]
+}

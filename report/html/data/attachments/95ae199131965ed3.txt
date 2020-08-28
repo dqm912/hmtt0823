@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_article_manage.py:36 BJ200-23B165258

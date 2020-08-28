@@ -1,0 +1,91 @@
+[ {
+  "uid" : "b1674b3ce604af7b",
+  "name" : "test_audit_article_pass",
+  "time" : {
+    "start" : 1598432004413,
+    "stop" : 1598432016861,
+    "duration" : 12448
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "209b9b59217ec61",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598432016874,
+    "stop" : 1598432021401,
+    "duration" : 4527
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d35f50957b46e515",
+  "name" : "test_mis_login",
+  "time" : {
+    "start" : 1598432003620,
+    "stop" : 1598432004397,
+    "duration" : 777
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "acf99af4709ac5ae",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598431958050,
+    "stop" : 1598431958050,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d6f2f1ccd083fdb",
+  "name" : "test_mp_login",
+  "time" : {
+    "start" : 1598431965878,
+    "stop" : 1598431966835,
+    "duration" : 957
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fd5c4055a2c51c",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598431989761,
+    "stop" : 1598431994216,
+    "duration" : 4455
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4892eb423bd3633d",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598431994230,
+    "stop" : 1598431994230,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3dc865b4c1cd6857",
+  "name" : "test_pub_article[BJ200-23A{}-A-软件测试-新增文章成功]",
+  "time" : {
+    "start" : 1598431966857,
+    "stop" : 1598431978751,
+    "duration" : 11894
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e157b4c5349b4c2e",
+  "name" : "test_pub_article[BJ200-23B{}-B-软件测试-新增文章成功]",
+  "time" : {
+    "start" : 1598431978766,
+    "stop" : 1598431989727,
+    "duration" : 10961
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

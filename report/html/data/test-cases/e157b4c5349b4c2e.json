@@ -1,0 +1,101 @@
+{
+  "uid" : "e157b4c5349b4c2e",
+  "name" : "test_pub_article[BJ200-23B{}-B-软件测试-新增文章成功]",
+  "fullName" : "case.mp.test_pub_article.TestPubArticle#test_pub_article",
+  "historyId" : "fc0882d345222cb776e3f527da85d804",
+  "time" : {
+    "start" : 1598431978766,
+    "stop" : 1598431989727,
+    "duration" : 10961
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598431966855,
+      "stop" : 1598431966855,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598431989747,
+      "stop" : 1598431989747,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test_pub_article"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPubArticle"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-7JCHR6M"
+  }, {
+    "name" : "thread",
+    "value" : "17180-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp.test_pub_article"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "article_channel",
+    "value" : "'软件测试'"
+  }, {
+    "name" : "article_context",
+    "value" : "'B'"
+  }, {
+    "name" : "article_title",
+    "value" : "'BJ200-23B{}'"
+  }, {
+    "name" : "expect",
+    "value" : "'新增文章成功'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "e157b4c5349b4c2e.json",
+  "parameterValues" : [ "'软件测试'", "'B'", "'BJ200-23B{}'", "'新增文章成功'" ]
+}
